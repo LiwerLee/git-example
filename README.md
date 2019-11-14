@@ -1,4 +1,6 @@
 # git-example
+<<<<<<< HEAD
 b
-
-dajkwgtsdj4fwaukjnwefsdjk,
+=======
+A
+>>>>>>> 9f1c962... update a
